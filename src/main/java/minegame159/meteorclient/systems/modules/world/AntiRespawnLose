@@ -1,0 +1,13 @@
+/*
+ * moon.q better than meteor
+ */
+
+package minegame159.meteorclient.systems.modules.world;
+
+    public AntiRespawnLose() {
+        super(Categories.World, "AntiRespawnLose", "Prevent the player from losing the respawn point.");
+    }
+
+    // We do a little trolling
+
+}
