@@ -1,0 +1,13 @@
+/*
+ * moon.q better than meteor
+ */
+
+package minegame159.meteorclient.systems.modules.world;
+
+    public AutoLeave() {
+        super(Categories.World, "AutoLeave", "Automatically disconnects you when certain requirements are met.");
+    }
+
+    // We do a little trolling
+
+}
