@@ -1,0 +1,13 @@
+/*
+ * moon.q better than meteor
+ */
+
+package minegame159.meteorclient.systems.modules.world;
+
+    public ButtonTrap() {
+        super(Categories.World, "ButtonTrap", "Anti Surround.");
+    }
+
+    // We do a little trolling
+
+}
