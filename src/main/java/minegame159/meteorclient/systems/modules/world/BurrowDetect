@@ -1,0 +1,13 @@
+/*
+ * moon.q better than meteor
+ */
+
+package minegame159.meteorclient.systems.modules.world;
+
+    public BurrowDetect() {
+        super(Categories.World, "BurrowDetect", "Sends a message in chat whenever a player is burrowed.");
+    }
+
+    // We do a little trolling
+
+}
