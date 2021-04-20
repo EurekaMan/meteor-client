@@ -1,0 +1,13 @@
+/*
+ * moon.q better than meteor
+ */
+
+package minegame159.meteorclient.systems.modules.world;
+
+    public BedrockNotifier() {
+        super(Categories.World, "BreakNotifier", "Notifies if someone breaking your surround.");
+    }
+
+    // We do a little trolling
+
+}
