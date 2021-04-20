@@ -1,0 +1,13 @@
+/*
+ * moon.q better than meteor
+ */
+
+package minegame159.meteorclient.systems.modules.world;
+
+    public AntiCrystal() {
+        super(Categories.World, "AntiCrystal", "Stops End Crystals from doing damage to you. Works only on 1.12");
+    }
+
+    // We do a little trolling
+
+}
