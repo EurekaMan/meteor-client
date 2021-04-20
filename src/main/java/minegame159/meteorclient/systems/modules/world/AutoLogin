@@ -1,0 +1,13 @@
+/*
+ * moon.q better than meteor
+ */
+
+package minegame159.meteorclient.systems.modules.world;
+
+    public AutoLogin() {
+        super(Categories.World, "AutoLogin", "Auto /login on cracked servers.");
+    }
+
+    // We do a little trolling
+
+}
