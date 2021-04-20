@@ -1,0 +1,13 @@
+/*
+ * moon.q better than meteor
+ */
+
+package minegame159.meteorclient.systems.modules.world;
+
+    public CustomSurround() {
+        super(Categories.World, "C-Surround", "Surrounds you in blocks to prevent you from taking lots of damage.");
+    }
+
+    // We do a little trolling
+
+}
