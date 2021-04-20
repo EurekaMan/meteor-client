@@ -1,0 +1,13 @@
+/*
+ * moon.q better than meteor
+ */
+
+package minegame159.meteorclient.systems.modules.world;
+
+    public EgapFinder() {
+        super(Categories.World, "EgapFinder", "Finds Egaps in a singleplayer world and waypoints them.");
+    }
+
+    // We do a little trolling
+
+}
