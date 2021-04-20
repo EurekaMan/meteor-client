@@ -1,0 +1,13 @@
+/*
+ * moon.q better than meteor
+ */
+
+package minegame159.meteorclient.systems.modules.world;
+
+    public BedrockTravel() {
+        super(Categories.World, "BedrockTravel", "Makes moving on bedrock easier.");
+    }
+
+    // We do a little trolling
+
+}
