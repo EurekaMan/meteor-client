@@ -1,0 +1,13 @@
+/*
+ * moon.q better than meteor
+ */
+
+package minegame159.meteorclient.systems.modules.world;
+
+    public AutoBuild() {
+        super(Categories.World, "AutoBuild", "Build structure that you choose.");
+    }
+
+    // We do a little trolling
+
+}
