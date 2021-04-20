@@ -1,0 +1,13 @@
+/*
+ * moon.q better than meteor
+ */
+
+package minegame159.meteorclient.systems.modules.world;
+
+    public AutoHighway() {
+        super(Categories.World, "AutoHighway", "Automatically build highway.");
+    }
+
+    // We do a little trolling
+
+}
