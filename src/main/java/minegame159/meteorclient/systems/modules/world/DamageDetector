@@ -1,0 +1,13 @@
+/*
+ * moon.q better than meteor
+ */
+
+package minegame159.meteorclient.systems.modules.world;
+
+    public DamageDetector() {
+        super(Categories.World, "DamageDetector", "Checks if the CA target is not burrowed, and isn't surrounded.");
+    }
+
+    // We do a little trolling
+
+}
